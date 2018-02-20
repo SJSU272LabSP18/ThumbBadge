@@ -1,5 +1,6 @@
 #Spark use-case22 Music dataset
-# The data is loaded into HDFS using hadoop fs -mkdir and hdfs put comamnds##
+# The data is loaded into HDFS using hadoop fs -mkdir and hdfs put comamnds##.
+#This program reads the Data in json format ,  create RDD,datasets out of it and run SQL queries
 from pyspark.sql import SparkSession
 spark = SparkSession \
     .builder \
