@@ -15,4 +15,4 @@ Use case is below
      |-- unixReviewTime: long (nullable = true)
 
  We uploaded the books dataset into the Jupyter Notebook. Using spark , we have found the top ten songs using the values in coloumn "overall".
- 
+ ![ScreenShot](https://github.com/SJSU272LabSP18/Project-Team-17/blob/master/Screen%20Shot%202018-02-20%20at%202.45.43%20PM.png)
