@@ -18,12 +18,6 @@ Team members:
 <br>Tableau - For data visualization and representation
 
 # Project Idea 2: 
-
---> Automated Parking System using Internet of Things (IoT) which enables the user to find the closest parking area and gives
-    precise information about vacant parking spaces. And primarily it focused on reducing the time in locating the
-    open parking lots and hence minimizing the redundant exploring of filled parking lots.
-
-# Project Idea 3: 
  
 --> Build a low-cost Internet of Things (IoT) based Biometric system for authentication using Raspberry Pi and cloud
     computing with use of Cryptographic algorithms RSA and AES-256 to maintain the security of biometric traits over the Internet
